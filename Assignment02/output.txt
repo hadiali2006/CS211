@@ -1,0 +1,21 @@
+Print shapes in ascending order:
+{Type=Square, TopLeft=[Point X=6, Y=9], BottomRight=[Point X=7, Y=8]} => Perimeter=4.000 and Area=1.000
+{Type=Square, TopLeft=[Point X=-2, Y=7], BottomRight=[Point X=-1, Y=6]} => Perimeter=4.000 and Area=1.000
+{Type=Triangle, Point1=[Point X=7, Y=-3], Point2=[Point X=7, Y=-7], Point3=[Point X=8, Y=-4]} => Perimeter=8.576 and Area=2.000
+{Type=Square, TopLeft=[Point X=-9, Y=8], BottomRight=[Point X=-7, Y=6]} => Perimeter=8.000 and Area=4.000
+{Type=Triangle, Point1=[Point X=-5, Y=-3], Point2=[Point X=4, Y=-5], Point3=[Point X=-7, Y=-1]} => Perimeter=23.753 and Area=7.000
+{Type=Rectangle, TopLeft=[Point X=0, Y=8], BottomRight=[Point X=-3, Y=5]} => Perimeter=12.000 and Area=9.000
+{Type=Square, TopLeft=[Point X=-8, Y=-8], BottomRight=[Point X=-2, Y=-14]} => Perimeter=24.000 and Area=36.000
+{Type=Square, TopLeft=[Point X=9, Y=8], BottomRight=[Point X=16, Y=1]} => Perimeter=28.000 and Area=49.000
+{Type=Rectangle, TopLeft=[Point X=-2, Y=-9], BottomRight=[Point X=-7, Y=1]} => Perimeter=30.000 and Area=50.000
+{Type=Circle, Center=[Point X=3, Y=3], Radius=4} => Perimeter=25.133 and Area=50.265
+{Type=Rectangle, TopLeft=[Point X=-2, Y=3], BottomRight=[Point X=9, Y=-2]} => Perimeter=32.000 and Area=55.000
+{Type=Square, TopLeft=[Point X=8, Y=-1], BottomRight=[Point X=16, Y=-9]} => Perimeter=32.000 and Area=64.000
+{Type=Square, TopLeft=[Point X=-9, Y=5], BottomRight=[Point X=-1, Y=-3]} => Perimeter=32.000 and Area=64.000
+{Type=Square, TopLeft=[Point X=-5, Y=2], BottomRight=[Point X=3, Y=-6]} => Perimeter=32.000 and Area=64.000
+{Type=Rectangle, TopLeft=[Point X=-5, Y=-3], BottomRight=[Point X=2, Y=7]} => Perimeter=34.000 and Area=70.000
+{Type=Square, TopLeft=[Point X=3, Y=-9], BottomRight=[Point X=12, Y=-18]} => Perimeter=36.000 and Area=81.000
+{Type=Rectangle, TopLeft=[Point X=-1, Y=-2], BottomRight=[Point X=8, Y=8]} => Perimeter=38.000 and Area=90.000
+{Type=Rectangle, TopLeft=[Point X=-9, Y=-1], BottomRight=[Point X=5, Y=-9]} => Perimeter=44.000 and Area=112.000
+{Type=Circle, Center=[Point X=8, Y=6], Radius=6} => Perimeter=37.699 and Area=113.097
+{Type=Circle, Center=[Point X=-7, Y=4], Radius=9} => Perimeter=56.549 and Area=254.469
